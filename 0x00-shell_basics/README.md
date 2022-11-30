@@ -1,1 +1,1 @@
-displays directory content including hidden files beginning with dot
+displays content of current directory in a digitalized long format
