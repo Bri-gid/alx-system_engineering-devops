@@ -1,1 +1,1 @@
-takes one to home
+lists directory content in a long format
