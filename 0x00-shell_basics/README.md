@@ -1,1 +1,1 @@
-deletes my_first_directory from /tmp
+changes working directory to the previous one
