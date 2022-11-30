@@ -1,1 +1,1 @@
-creates a symbolic link named __ls__
+copies all html files from the current directory to the parent directory
