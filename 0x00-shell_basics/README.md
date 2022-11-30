@@ -1,1 +1,1 @@
-Displays the contents list of your directory
+takes one to home
