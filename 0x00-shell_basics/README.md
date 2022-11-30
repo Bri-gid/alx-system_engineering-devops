@@ -1,1 +1,1 @@
-moves the file betty to my_first_directory in tmp
+Deletes the file betty from its sub and parent directory
