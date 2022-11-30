@@ -1,1 +1,1 @@
-prints the file type of iamafile
+creates a symbolic link named __ls__
