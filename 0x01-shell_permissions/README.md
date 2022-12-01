@@ -1,1 +1,1 @@
- Sets the mode of file hello the same as olleh mode
+ adds execute permission to all subdirectories of the current directory
