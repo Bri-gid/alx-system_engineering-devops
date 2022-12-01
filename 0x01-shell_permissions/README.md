@@ -1,1 +1,1 @@
- Sets the mode of file permission to 753 of hello file 
+ Sets the mode of file hello the same as olleh mode
