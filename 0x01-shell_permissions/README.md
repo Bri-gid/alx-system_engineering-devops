@@ -1,1 +1,1 @@
- my_dir with permissions 751
+ changes the group owner to school for the hello file
