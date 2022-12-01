@@ -1,1 +1,1 @@
-execute permission to the owner,group owner and others of the file hello 
+ gives all permissions to other users with none to owner and group 
