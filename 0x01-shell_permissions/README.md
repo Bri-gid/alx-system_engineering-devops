@@ -1,1 +1,1 @@
- gives all permissions to other users with none to owner and group 
+ Sets the mode of file permission to 753 of hello file 
