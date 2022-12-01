@@ -1,1 +1,1 @@
-changes owner to vincent and group owner to staff
+changes owner and group owner of _hello to vincent and staff
