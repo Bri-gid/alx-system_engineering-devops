@@ -1,1 +1,1 @@
-takes a list of words as input and prints only the words that exactly once
+display lines containing the pattern root from the file /etc/passwd display lines containing the pattern root from the file /etc/passwd
