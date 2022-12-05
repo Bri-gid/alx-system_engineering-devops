@@ -1,1 +1,1 @@
-Prints Hello,World followed by a new line to standard output
+Displays confused smiley
