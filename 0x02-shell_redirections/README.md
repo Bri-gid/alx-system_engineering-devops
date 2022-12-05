@@ -1,1 +1,1 @@
-deletes all regular files with .js in current directory
+counts the number of directories and sub-directories in the current directory
