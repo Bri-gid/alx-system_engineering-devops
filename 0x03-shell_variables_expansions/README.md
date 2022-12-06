@@ -1,1 +1,1 @@
-converts anumber from base 10 to base 16
+encodes and decodes text using the rot 13 encryption
