@@ -1,1 +1,1 @@
-creates an alias with name ls and value rm *
+prints hello user where user is the current Linux user
